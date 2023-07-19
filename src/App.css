@@ -1,0 +1,17 @@
+
+.square{
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  padding: 40px;
+}
+.valueTrue{
+  background-color: blue;
+  width: 300px;
+  height: 300px;
+}
+.valueFalse{
+  background-color: red;
+  width: 300px;
+  height: 300px;
+}
